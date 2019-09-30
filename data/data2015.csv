@@ -1,0 +1,311 @@
+brand,disc,plastic,run,score
+Westside,Harp,VIP,[],11
+Westside,Harp,Hard,[],11
+Westside,Harp,Soft,[],10
+Westside,Harp,TP,[],6
+Westside,Harp,Medium ,[],6
+Westside,Tursas,VIP,[],20
+Westside,Tursas,Tournament,[],16
+Westside,King,VIP plastic,[],10
+Westside,"Hatchet",VIP,[],14
+Westside,"Hatchet",TP,[],4
+Westside,Warship,VIP,[],8
+Westside,Warship,TP,[],8
+Westside,Underworld,VIP,[],11
+Westside,Underworld,Tournament,[],5
+Westside,Stag,VIP,[],15
+Westside,Stag,Tournament ,[],4
+Westside,Sword,TP,[],13
+Westside,Sword,VIP,[],7
+Westside,World,Tournament,[],9
+Westside,World,VIP,[],3
+Westside,Sampo,Elasto,[],9
+Westside,"Swan",Reborn Soft,[],5
+Westside,Giant,VIP,[],4
+Westside,Bard,VIP,[],5
+Innova,TeeBird,Champion,[],125
+Innova,TeeBird,star,[],99
+Innova,TeeBird,GStar,[],41
+Innova,TeeBird,DX,[],33
+Innova,TeeBird,Brinster ,[],12
+Innova,Leopard,Champion,[],65
+Innova,Leopard,DX,[],52
+Innova,Leopard,Star,[],48
+Innova,Leopard,Pro,[],11
+Innova,Leopard,"G*",[],7
+Innova,Roc,DX,[],85
+Innova,Roc,Kc Pro,[],60
+Innova,Roc,Star,[],10
+Innova,Roc,Champion,[],6
+Innova,Roc,R-Pro,[],3
+Innova,Roc,Glow,[],5
+Innova,Wraith,Star,[],70
+Innova,Wraith,Champion,[],36
+Innova,Wraith,DX,[],12
+Innova,Wraith,GStar,[],9
+Innova,Wraith,Blizzard ,[],10
+Innova,Wraith,Pro ,[],7
+Innova,Thunderbird,Champion,[],97
+Innova,Thunderbird,Gstar,[],30
+Innova,Aviar,DX,[],91
+Innova,Aviar,KC Pro,[],27
+Innova,Aviar,Star,[],24
+Innova,Aviar,McPro,[],43
+Innova,Aviar,Champion,[],7
+Innova,Aviar,R-pro,[],7
+Innova,Aviar,Jk pro,[],6
+Innova,Aviar,G star,[],3
+Innova,Destroyer,Star,[],134
+Innova,Destroyer,Pro,[],32
+Innova,Destroyer,GStar,[],30
+Innova,Destroyer,Champion,[],25
+Innova,Destroyer,Blizzard,[],20
+Innova,Destroyer,DX,[],6
+Innova,Firebird,Champion,12x,32
+Innova,Firebird,Champion,11x,9
+Innova,Firebird,Star,[],39
+Innova,Firebird,Glow Champion,Nate Sexton tour series,21
+Innova,Firebird,G*,[],4
+Innova,Firebird,DX,[],4
+Innova,Sidewinder,Champion,[],36
+Innova,Sidewinder,Star,[],30
+Innova,Sidewinder,G*,[],3
+Innova,Shark,DX,[],57
+Innova,Shark,G Star,[],3
+Innova,Boss,Champion,[],26
+Innova,Boss,Blizzard,[],29
+Innova,Boss,Star,[],13
+Innova,Boss,G*,[],5
+Innova,Valkyrie,Star,Sandstrom,13
+Innova,Valkyrie,Champ,[],62
+Innova,Valkyrie,DX,[],25
+Innova,Valkyrie,G*,[],10
+Innova,Gator,Champion,Glow,10
+Innova,Gator,Star,[],12
+Innova,Gator,"DX",[],5
+Innova,Gator,Metal flake champion,[],3
+Innova,Roc3,Champion,[],157
+Innova,Roc3,McPro,[],41
+Innova,Roc3,G*,[],15
+Innova,Roc3,Star,[],12
+Innova,Roc3,Glow,[],4
+Innova,Katana,Star,[],26
+Innova,Katana,Blizzard,[],12
+Innova,Katana,Champion,[],9
+Innova,Katana,Pro,[],7
+Innova,Roadrunner,star,[],25
+Innova,Roadrunner,champion,[],22
+Innova,TL,Star,[],10
+Innova,TL,Champion,[],10
+Innova,Eagle,Champion,[],23
+Innova,Eagle,Star,[],8
+Innova,Eagle,DX,[],8
+Innova,Beast,Champion,[],43
+Innova,Beast,Star,[],8
+Innova,Beast,DX,[],6
+Innova,Beast,Pro,[],5
+Innova,Beast,Blizzard,[],3
+Innova,Mako3,Champion,[],37
+Innova,Mako3,Star,[],9
+Innova,Mako3,G-Star,[],5
+Innova,Rhyno,Champion,[],7
+Innova,Rhyno,DX,[],6
+Innova,Rhyno,R Pro,[],3
+Innova,Tern,Champion,[],37
+Innova,Tern,Star,[],26
+Innova,Tern,G Star,[],7
+Innova,Pig,Pro,[],15
+Innova,Pig,Blizzard,[],6
+Innova,Atlas,Star,[],7
+Innova,Dart,R-Pro,[],6
+Innova,Dart,dx,[],6
+Innova,Starfire,Champion,[],8
+Innova,Starfire,Pro,[],5
+Innova,TL3,GStar,[],16
+Innova,Nova,XT,[],5
+Innova,Mako,Star,[],7
+Innova,Shark3 ,Champion,[],6
+Innova,Cobra,DX,[],2
+Innova,Birdie,DX,[],4
+Latitude 64,River,Opto ,[],65
+Latitude 64,River,Gold,[],60
+Latitude 64,River,frost line,[],13
+Latitude 64,River,Recycled,[],7
+Latitude 64,Saint,Opto,[],36
+Latitude 64,Saint,Gold,[],25
+Latitude 64,Saint,Frost ,[],3
+Latitude 64,Saint Pro,Gold Line,[],30
+Latitude 64,Saint Pro,Opto,[],18
+Latitude 64,Saint Pro,Moonshine,[],3
+Latitude 64,Claymore,Opto,[],10
+Latitude 64,Claymore,Gold line,[],6
+Latitude 64,Claymore,frost line,[],7
+Latitude 64,Claymore,Recycled,[],5
+Latitude 64,Pure,Opto,[],12
+Latitude 64,Pure,Zero ,[],6
+Latitude 64,Pure,Zero hard,[],6
+Latitude 64,XXX,Opto ,[],14
+Latitude 64,XXX,Gold line,[],8
+Latitude 64,Havoc,Opto,[],8
+Latitude 64,Havoc,Gold,[],5
+Latitude 64,Trident,Gold line,[],9
+Latitude 64,Trident,Opto ,[],6
+Latitude 64,Mace,Zero Hard ,[],7
+Latitude 64,Mace,Gold Line ,[],7
+Latitude 64,Dagger,BT Medium,[],8
+Latitude 64,Dagger,"Zero Soft",[],7
+Latitude 64,Fury,"Gold Line",[],6
+Latitude 64,Pain,Opto,[],4
+Latitude 64,Macana,Retro,[],8
+Latitude 64,Raketen,Optohex,[],5
+Latitude 64,Bolt,Gold Line ,[],2
+Dynamic Discs,Judge,Blend,[],36
+Dynamic Discs,Judge,Hard,[],30
+Dynamic Discs,Judge,Classic soft,[],25
+Dynamic Discs,Judge,Lucid,[],10
+Dynamic Discs,Judge,Fuzion,[],9
+Dynamic Discs,Judge,Fluid,[],5
+Dynamic Discs,Truth,Lucid,[],28
+Dynamic Discs,Truth,Fuzion,[],18
+Dynamic Discs,Truth,Moonshine,[],7
+Dynamic Discs,Escape,Lucid,[],12
+Dynamic Discs,Escape,Bio fusion,[],7
+Dynamic Discs,Escape,Moonshine,[],6
+Dynamic Discs,Felon,Lucid,[],28
+Dynamic Discs,Felon,Fuzion,[],5
+Dynamic Discs,Trespass,Lucid,[],11
+Dynamic Discs,Trespass,BioFuzion,[],3
+Dynamic Discs,Trespass,Fuzion,[],4
+Dynamic Discs,Verdict,Lucid,[],19
+Dynamic Discs,Verdict,BioFuzion,[],3
+Dynamic Discs,Warden,Classic,[],9
+Dynamic Discs,Warden,Classic Blend,[],7
+Dynamic Discs,Warden,Moonshine,[],3
+Dynamic Discs,Warden,Classic soft,[],3
+Dynamic Discs,Thief,BioFuzion,[],6
+Dynamic Discs,Enforcer,BioFuzion,[],5
+Dynamic Discs,Evidence,Fuzion,[],8
+Dynamic Discs,Justice,Lucid,[],7
+Dynamic Discs,Freedom,Lucid,[],10
+Dynamic Discs,Witness,Licid,[],6
+Gateway,Wizard,SSS,[],42
+Gateway,Wizard,SS,[],34
+Gateway,Wizard,S,[],10
+Gateway,Wizard,Eraser,[],8
+Gateway,Wizard,RFF,[],5
+Gateway,Wizard,$,[],5
+Gateway,Wizard,E,[],5
+Gateway,Magic ,SS,[],5
+Gateway,Magic ,SSS,[],5
+Gateway,Voodoo,SSS,[],6
+Gateway,Voodoo,SS,[],4
+Gateway,Element,"Evolution",[],3
+Discraft,Buzzz,Z,[],138
+Discraft,Buzzz,Ti,[],34
+Discraft,Buzzz,Esp,[],24
+Discraft,Buzzz,Pro D,[],11
+Discraft,Buzzz,Glow,[],8
+Discraft,Buzzz,X,[],5
+Discraft,Buzzz,Cryztal Z,[],8
+Discraft,Buzzz,Big Z,[],6
+Discraft,Buzzz,ESP FLX,[],11
+Discraft,Comet,Z,[],27
+Discraft,Comet,Esp,[],9
+Discraft,Comet,Big Z,[],7
+Discraft,Drone,ESP FLX,[],15
+Discraft,Drone,Z,[],5
+Discraft,Drone,Crystal FLX,[],6
+Discraft,Drone,Big Z,[],4
+Discraft,Buzzz OS,Z,[],30
+Discraft,Buzzz OS,Cryztal Z,[],3
+Discraft,Avenger SS,Z,[],17
+Discraft,Avenger SS,ESP FLX,[],5
+Discraft,Buzzz SS,Z,[],22
+Discraft,"Challenger",Pro D,[],8
+Discraft,Zone,ESP,[],14
+Discraft,Meteor,ESP,[],6
+Discraft,Meteor,Glow Z,[],3
+Discraft,Banger GT,Pro D,[],3
+Discraft,Crank,ESP,[],3
+Discraft,Crank,Z,[],3
+Discraft,Wasp,Z,[],4
+Discraft,Stratus,X,[],6
+Discraft,Flash,Z,[],3
+Legacy,Rival,Icon,[],18
+Legacy,Rival,Pinnacle,[],13
+Legacy,Rival,Legend,[],3
+Legacy,Outlaw,Icon,[],16
+Legacy,Patriot,Icon,[],8
+Legacy,Ghost,Pinnacle,[],6
+Legacy,Ghost,New Protege,[],4
+Legacy,Mongoose,Icon,[],5
+Legacy,Rampage,Pinnacle,[],5
+Discmania,Pd,C line,[],25
+Discmania,Pd,S line,[],23
+Discmania,Pd,P-Line,[],9
+Discmania,Pd,G-line,[],8
+Discmania,FD,C-Line,[],33
+Discmania,FD,S-line,[],15
+Discmania,FD,G-line,[],7
+Discmania,P2 ,S-line ,[],18
+Discmania,P2 ,D-line,[],9
+Discmania,P2 ,P-line,[],6
+Discmania,MD3,C-Line,[],5
+Discmania,MD3,P-Line,[],4
+Discmania,FD2,C-line,[],8
+MVP,Volt,Neutron,[],17
+MVP,Volt,Proton,[],11
+MVP,Ion,Neutron,[],6
+MVP,Ion,Proton,[],9
+MVP,Ion,Plasma,[],5
+MVP,Atom,Electron Firm,[],7
+MVP,Atom,Electron Soft,[],6
+MVP,Inertia,Neutron,[],17
+MVP,Inertia,Proton,[],9
+MVP,Axis,Neutron,[],13
+MVP,Axis,Proton,[],4
+MVP,Tesla,Neutron,[],7
+MVP,Photon,Neutron ,[],8
+MVP,Photon,Fission,[],4
+MVP,"Tangent",Neutron,[],7
+MVP,"Tangent",Proton ,[],3
+MVP,Resistor,Neutron,[],5
+MVP,Motion,Neutron,[],7
+MVP,Vector,Proton,[],4
+MVP,Vector,Neutron,[],5
+MVP,Tensor,Neutron,[],3
+Axiom,Envy,Neutron,[],39
+Axiom,Envy,Proton,[],21
+Axiom,Envy,Neutron Soft,[],18
+Axiom,Proxy,Neutron,[],20
+Axiom,Crave,Proton,[],7
+Axiom,Crave,Neutron ,[],5
+Axiom,Insanity,Neutron,[],8
+Axiom,Insanity,Proton,[],6
+Axiom,Alias,Neutron,[],8
+Axiom,Alias,Proton,[],4
+Axiom,Theory,Neutron ,[],7
+Axiom,Fireball,Neutron,[],7
+Prodigy,Pa4,400,[],7
+Prodigy,Pa4,300,[],4
+Prodigy,M4,750,[],5
+Prodigy,M4,400g,[],3
+Prodigy,PA1,350g,[],4
+Prodigy,PA1,300,[],4
+Prodigy,D3,400g,[],11
+Prodigy,D3,400,[],7
+Prodigy,F5,750,[],5
+Prodigy,F5,400,[],4
+Prodigy,D1,400g,[],5
+Prodigy,D1,400,[],3
+Prodigy,F3,400,[],5
+Prodigy,PA3,350g,[],8
+Prodigy,PA3,300s,[],5
+Prodigy,D2,400g,[],9
+Prodigy,F7,400,[],6
+Prodigy,X1,750,[],5
+Prodigy,H1,750,[],3
+Vibram,Ibex,X-Link Medium,[],5
+Millennium,JLS,Millennium Standard,[],6
+Millennium,Polaris LS,"Millennium Standard",[],3
+"Prodiscus",Jokeri,Premium,[],5
