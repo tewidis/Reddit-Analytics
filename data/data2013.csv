@@ -1,12 +1,12 @@
 Innova,Teebird,Champion,12x,11
-Innova,Teebird,Champion,11x (Eleven Time),16
+Innova,Teebird,Champion,11x,16
 Innova,Teebird,Champion,Plus!,6
 Innova,Teebird,Star,[],25
 Innova,Teebird,DX,[],16
 Innova,Teebird,Pro,L,1
 Innova,Teebird,Echo Star,[],3
 Innova,Teebird,"11x kc pro",[],2
-Innova,Teebird,"CE (Champion Edition, not Champion)",[],1
+Innova,Teebird,"CE",[],1
 Innova,Aviar,DX,no bead ,1
 Innova,Aviar,KC Pro,[],19
 Innova,Aviar,Star,[],14
@@ -48,7 +48,7 @@ Innova,Valkyrie,Champion,[],22
 Innova,Valkyrie,Star,[],16
 Innova,Valkyrie,DX,[],10
 Innova,Valkyrie,JK Pro,[],3
-Innova,Valkyrie,"Pro, not JK/R/WTF-Pro, just Pro.",[],3
+Innova,Valkyrie,Pro,[],3
 Innova,Destroyer,Star,First Run ,2
 Innova,Destroyer,Pro,[],7
 Innova,Destroyer,Champion,[],10
@@ -265,11 +265,11 @@ Vibram,Sole,Medium,[],1
 Legacy,Rampage,Pinnacle Edition,[],1
 Legacy,Ghost,Icon Edition,[],1
 Legacy,Ghost,Excel Edition,[],1
-Millenium,Omega,AP,M,1
-Millenium,Quasar,Quantum,[],2
-Millenium,OLF,Q,[],2
-Millenium,OLS,M,[],1
-Millenium,JLS,Quantum,[],1
+Millennium,Omega,AP,M,1
+Millennium,Quasar,Quantum,[],2
+Millennium,OLF,Q,[],2
+Millennium,OLS,M,[],1
+Millennium,JLS,Quantum,[],1
 Crosslap,Credo,Advanced,[],1
 [deleted],Ghost,Icon,[],1
 [deleted],Ghost,Excel,[],1

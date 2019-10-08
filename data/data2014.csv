@@ -150,35 +150,35 @@ Discraft,Wasp,Z,[],5
 Discraft,XL,X,[],2
 Discraft,XL, Pro-D,[],1
 Discraft,Force,Z,[],3
-Lat 64,River,Gold,[],27
-Lat 64,River,Opto,[],16
-Lat 64,River,Recycled,[],6
-Lat 64,River,MoonShine,[],2
-Lat 64,Saint,GL,[],20
-Lat 64,Saint,Opto,[],6
-Lat 64,Saint,Recycled,[],2
-Lat 64,Saint Pro,Opto,[],10
-Lat 64,Saint Pro,GL,[],6
-Lat 64,Claymore,Gold Recycled,[],11
-Lat 64,Claymore,Opto,[],3
-Lat 64,Pure,Opto,[],3
-Lat 64,Pure,Soft,[],3
-Lat 64,Havoc,GL,[],5
-Lat 64,Diamond,Gold,[],3
-Lat 64,"Fuse",Gold,[],3
-Lat 64,"Fuse",Opto,[],2
-Lat 64,xxx,Opto,[],7
-Lat 64,xxx,Gold,[],3
-Lat 64,Flow,Gold,[],3
-Lat 64,Core,Gold Line,[],4
-Lat 64,Core,Opto,[],3
-Lat 64,Dagger,Medium,[],3
-Lat 64,Fury,Gold Line,[],4
-Lat 64,Fury,Opto,[],3
-Lat 64,River,Gold Line,[],7
-Lat 64,Havoc,Moonshine,[],1
-Lat 64,Havoc,"Gold Line",[],1
-Lat 64,Fuse,Opto,[],1
+Latitude 64,River,Gold,[],27
+Latitude 64,River,Opto,[],16
+Latitude 64,River,Recycled,[],6
+Latitude 64,River,MoonShine,[],2
+Latitude 64,Saint,GL,[],20
+Latitude 64,Saint,Opto,[],6
+Latitude 64,Saint,Recycled,[],2
+Latitude 64,Saint Pro,Opto,[],10
+Latitude 64,Saint Pro,GL,[],6
+Latitude 64,Claymore,Gold Recycled,[],11
+Latitude 64,Claymore,Opto,[],3
+Latitude 64,Pure,Opto,[],3
+Latitude 64,Pure,Soft,[],3
+Latitude 64,Havoc,GL,[],5
+Latitude 64,Diamond,Gold,[],3
+Latitude 64,"Fuse",Gold,[],3
+Latitude 64,"Fuse",Opto,[],2
+Latitude 64,xxx,Opto,[],7
+Latitude 64,xxx,Gold,[],3
+Latitude 64,Flow,Gold,[],3
+Latitude 64,Core,Gold Line,[],4
+Latitude 64,Core,Opto,[],3
+Latitude 64,Dagger,Medium,[],3
+Latitude 64,Fury,Gold Line,[],4
+Latitude 64,Fury,Opto,[],3
+Latitude 64,River,Gold Line,[],7
+Latitude 64,Havoc,Moonshine,[],1
+Latitude 64,Havoc,"Gold Line",[],1
+Latitude 64,Fuse,Opto,[],1
 MVP,Ion,Proton,[],20
 MVP,Ion,Soft Proton,[],7
 MVP,Ion,Neutron,[],3
@@ -194,26 +194,26 @@ MVP,Amp,Neutron,[],5
 MVP,"Vector",Neutron,[],4
 MVP,Resistor,Neutron,[],3
 MVP,Switch,Neutron,[],2
-Dynamic,Judge,Classic Blend,[],18
-Dynamic,Judge,Fusion,[],3
-Dynamic,Judge,Lucid,[],2
-Dynamic,Judge,Lucid,[],2
-Dynamic,Judge,Classic Soft,[],2
-Dynamic,Suspect,Lucid,[],9
-Dynamic,Truth,Lucid,[],18
-Dynamic,Truth,Fuzion,[],7
-Dynamic,Truth,Biofuzion,[],1
-Dynamic,Escape,Lucid,[],12
-Dynamic,Escape,Fuzion,[],3
-Dynamic,Escape,Moonshine,[],2
-Dynamic,Warden,Soft,[],4
-Dynamic,Warden,Blend,[],2
-Dynamic,Warden,Moonshine,[],2
-Dynamic,Trespass,Lucid,[],5
-Dynamic,Trespass,Fuzion,[],3
-Dynamic,Verdict,Lucid,[],4
-Dynamic,Fugitive,Biofuzion,[],1
-Dynamic,Felon,Lucid,[],1
+Dynamic Discs,Judge,Classic Blend,[],18
+Dynamic Discs,Judge,Fusion,[],3
+Dynamic Discs,Judge,Lucid,[],2
+Dynamic Discs,Judge,Lucid,[],2
+Dynamic Discs,Judge,Classic Soft,[],2
+Dynamic Discs,Suspect,Lucid,[],9
+Dynamic Discs,Truth,Lucid,[],18
+Dynamic Discs,Truth,Fuzion,[],7
+Dynamic Discs,Truth,Biofuzion,[],1
+Dynamic Discs,Escape,Lucid,[],12
+Dynamic Discs,Escape,Fuzion,[],3
+Dynamic Discs,Escape,Moonshine,[],2
+Dynamic Discs,Warden,Soft,[],4
+Dynamic Discs,Warden,Blend,[],2
+Dynamic Discs,Warden,Moonshine,[],2
+Dynamic Discs,Trespass,Lucid,[],5
+Dynamic Discs,Trespass,Fuzion,[],3
+Dynamic Discs,Verdict,Lucid,[],4
+Dynamic Discs,Fugitive,Biofuzion,[],1
+Dynamic Discs,Felon,Lucid,[],1
 Gateway,Wizard,SSS,[],23
 Gateway,Wizard,SS,[],15
 Gateway,Wizard,RFF,[],10
