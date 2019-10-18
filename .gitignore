@@ -1,4 +1,3 @@
 *.ini
 .Rhistory
-plots
 code/example.r
