@@ -52,9 +52,10 @@ I was also curious what the popular discs were each year and how
 these changed over time, so I created bar charts of the top 25 discs for each
 year.
 ![alt text](https://github.com/tewidis/Reddit-Analytics/blob/master/plots/2019_disc_bar_graph.png
+"2019 Top 25 Discs")
 <img
 src="https://github.com/tewidis/Reddit-Analytics/blob/master/plots/2019_disc_bar_graph.png"
-width="160" height="120"/>
+width="640" height="480"/>
 Once again, using multiple static bar graphs to view a change over time is
 difficult, and I wanted to learn how to create the animated bar charts that are
 so popular on /r/dataisbeautiful, so I once again turned to gganimate.
