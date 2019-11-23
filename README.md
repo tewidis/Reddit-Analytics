@@ -41,7 +41,7 @@ behave with Innova consistently being the most popular disc and brands like
 Discraft and Discmania gaining more popularity in recent years. An example pie
 chart is shown below.
 
-![alt text](https://github.com/tewidis/Reddit-Analytics/blob/master/plots/2019-brand-distribution.png
+![alt text](https://github.com/tewidis/Reddit-Analytics/blob/master/plots/2019_brand_distribution.png
 "2019 Pie Chart")
 
 Using pie charts to evaluate a change over time is difficult, so I created an
@@ -56,8 +56,7 @@ I was also curious what the popular discs were each year and how
 these changed over time, so I created bar charts of the top 25 discs for each
 year.
 
-![alt text]([https://github.com/tewidis/Reddit-Analytics/blob/master/plots/2019_disc_bar_graph.png
-"2019 Top 25 Discs")
+![alt text]([https://github.com/tewidis/Reddit-Analytics/blob/master/plots/2019_disc_bar_graph.png "2019 Top 25 Discs")
 
 Once again, using multiple static bar graphs to view a change over time is
 difficult, and I wanted to learn how to create the animated bar charts that are
