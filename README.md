@@ -41,30 +41,31 @@ behave with Innova consistently being the most popular disc and brands like
 Discraft and Discmania gaining more popularity in recent years. An example pie
 chart is shown below.
 
-![alt 2019 Pie
-Chart](https://github.com/tewidis/Reddit-Analytics/plots/2019-brand-distribution.pdf)
+![alt
+text](https://github.com/tewidis/Reddit-Analytics/plots/2019-brand-distribution.pdf
+"2019 Pie Chart")
 
 Using pie charts to evaluate a change over time is difficult, so I created an
 animated histogram of the distribution that shows how the distribution changes
 each year, shown below. Discraft has grown in popularity immensely in recent
 years, consistent with the signing of high-profile players such as Paul McBeth.
 
-![alt Animated
-Histogram](https://github.com/tewidis/Reddit-Analytics/plots/brands.gif)
+![alt text](https://github.com/tewidis/Reddit-Analytics/plots/brands.gif
+"Animated Histogram")
 
 I was also curious what the popular discs were each year and how
 these changed over time, so I created bar charts of the top 25 discs for each
 year.
 
-![alt 2019 Top 25
-Discs]([https://github.com/tewidis/Reddit-Analytics/plots/2019_disc_bar_graph.pdf)
+![alt text]([https://github.com/tewidis/Reddit-Analytics/plots/2019_disc_bar_graph.pdf
+"2019 Top 25 Discs")
 
 Once again, using multiple static bar graphs to view a change over time is
 difficult, and I wanted to learn how to create the animated bar charts that are
 so popular on /r/dataisbeautiful, so I once again turned to gganimate.
 
-![alt Most Popular Discs
-Animated](https://github.com/tewidis/Reddit-Analytics/plots/discs.gif)
+![alt text](https://github.com/tewidis/Reddit-Analytics/plots/discs.gif "Most
+Popular Discs Animated")
 
 ## Conclusion
 This project gave me exposure to several new libraries and techniques that will
