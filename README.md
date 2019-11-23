@@ -30,10 +30,55 @@ I've heard so many good things about using the tidyverse library in R for data t
 and visualization, so I decided to take this project as an opportunity to learn
 and practice R. I used dplyr, ggplot, and gganimate to read and transform the
 data and create aesthetically pleasing visualizations that show how users'
-preferences change over time.
+preferences change over time. The code used to clean the data and make the
+plots that follow is located in r_analysis_plotting.r.
 
 ## Results
+I was curious to see how the distribution of brands changed over time, so I
+aggregated the data for each brand and created a pie chart of the distribution.
+These distributions essentially follow my intuition for how I expect them to
+behave with Innova consistently being the most popular disc and brands like
+Discraft and Discmania gaining more popularity in recent years. An example pie
+chart is shown below.
+
+![alt 2019 Pie
+Chart][https://github.com/tewidis/Reddit-Analytics/plots/2019-brand-distribution.pdf]
+
+Using pie charts to evaluate a change over time is difficult, so I created an
+animated histogram of the distribution that shows how the distribution changes
+each year, shown below. Discraft has grown in popularity immensely in recent
+years, consistent with the signing of high-profile players such as Paul McBeth.
+
+![alt Animated
+Histogram][https://github.com/tewidis/Reddit-Analytics/plots/brands.gif]
+
+I was also curious what the popular discs were each year and how
+these changed over time, so I created bar charts of the top 25 discs for each
+year.
+
+![alt 2019 Top 25
+Discs][https://github.com/tewidis/Reddit-Analytics/plots/2019_disc_bar_graph.pdf]
+
+Once again, using multiple static bar graphs to view a change over time is
+difficult, and I wanted to learn how to create the animated bar charts that are
+so popular on /r/dataisbeautiful, so I once again turned to gganimate.
+
+![alt Most Popular Discs
+Animated][https://github.com/tewidis/Reddit-Analytics/plots/discs.gif]
 
 ## Conclusion
+This project gave me exposure to several new libraries and techniques that will
+be useful as I continue to develop my data science skills. While my dataset was
+small, the project taught me the difficulties of working with raw text data
+from a variety of users. There were numerous spelling mistakes, deleted
+comments, and comments unrelated to the purpose of the post that needed to be
+cleaned prior to completing an analysis or visualizations.
+
 I found the tidyverse library to be an effective and easy-to-use library for
-creating any number of plots.
+creating a variety of different plots. While the functionality of ggplot can be
+mimicked using something like matplotlib/seaborn in python, I found that python
+lacks a library that competes with R's gganimate. However, I found python's
+numerous options for webscraping (BeautifulSoup, PRAW) to be preferable for
+gathering data. I found that using python for scraping and R for
+analysis/visualization was an effective workflow that I will likely implement
+for future data science projects.
