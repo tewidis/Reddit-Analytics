@@ -40,29 +40,24 @@ These distributions essentially follow my intuition for how I expect them to
 behave with Innova consistently being the most popular disc and brands like
 Discraft and Discmania gaining more popularity in recent years. An example pie
 chart is shown below.
-
 ![alt text](https://github.com/tewidis/Reddit-Analytics/blob/master/plots/2019_brand_distribution.png
 "2019 Pie Chart")
-
 Using pie charts to evaluate a change over time is difficult, so I created an
 animated histogram of the distribution that shows how the distribution changes
 each year, shown below. Discraft has grown in popularity immensely in recent
 years, consistent with the signing of high-profile players such as Paul McBeth.
-
 ![alt text](https://github.com/tewidis/Reddit-Analytics/blob/master/plots/brands.gif
 "Animated Histogram")
-
 I was also curious what the popular discs were each year and how
 these changed over time, so I created bar charts of the top 25 discs for each
 year.
-
 ![alt text](https://github.com/tewidis/Reddit-Analytics/blob/master/plots/2019_disc_bar_graph.png
-"2019 Top 25 Discs")
-
+<img
+src="https://github.com/tewidis/Reddit-Analytics/blob/master/plots/2019_disc_bar_graph.png"
+width="160" height="120"/>
 Once again, using multiple static bar graphs to view a change over time is
 difficult, and I wanted to learn how to create the animated bar charts that are
 so popular on /r/dataisbeautiful, so I once again turned to gganimate.
-
 ![alt text](https://github.com/tewidis/Reddit-Analytics/blob/master/plots/discs.gif "Most
 Popular Discs Animated")
 
