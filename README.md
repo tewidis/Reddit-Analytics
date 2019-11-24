@@ -68,13 +68,14 @@ be useful as I continue to develop my data science skills. While my dataset was
 small, the project taught me the difficulties of working with raw text data
 from a variety of users. There were numerous spelling mistakes, deleted
 comments, and comments unrelated to the purpose of the post that needed to be
-cleaned prior to completing an analysis or visualizations.
+cleaned prior to completing any analysis or visualizations.
 
 I found the tidyverse library to be an effective and easy-to-use library for
-creating a variety of different plots. While the functionality of ggplot can be
-mimicked using something like matplotlib/seaborn in python, I found that python
-lacks a library that competes with R's gganimate. However, I found python's
-numerous options for webscraping (BeautifulSoup, PRAW) to be preferable for
+creating a variety of different plots and was impressed by how clean plots made
+with ggplot look without substantial modification. While the functionality of ggplot can be
+mimicked using something like matplotlib/seaborn, python
+lacks a library that competes with R's gganimate. However, I prefer python's
+numerous options for webscraping (BeautifulSoup, PRAW) for
 gathering data. I found that using python for scraping and R for
 analysis/visualization was an effective workflow that I will likely implement
 for future data science projects.
